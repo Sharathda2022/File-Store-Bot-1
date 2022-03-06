@@ -16,7 +16,7 @@ Bot generates sharable link inside telegram for documents and make files public 
 
 # Deploy Heroku 
 
-<a href="https://heroku.com/deploy?template=https://github.com/kjeymax/File-Store-Bot">
+<a href="https://github.com/Sharathda2022/File-Store-Bot-1">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 <br><br>
